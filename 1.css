@@ -1,0 +1,183 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.main{
+    width: 100%;
+    background:linear-gradient(to top, rgba(85, 199, 228, 0.5)10%,rgba(154, 240, 78, 0.5)90%);
+    background-position: center;
+    background-size:auto;
+    height: 100vh;
+}
+
+.navbar{
+    width: 1280px;
+    height: 75px;
+    margin: none;
+    background-color: rgb(18, 16, 16);
+}
+
+.icon{
+    width: 500px;
+    float: left;
+    height: 70px;
+}
+
+.logo{
+    color: #ff7200;
+    font-size: 35px;
+    font-family: Arial;
+    padding-left: 20px;
+    float: left;
+    padding-top: 10px;
+    margin-top: 5px
+}
+
+.menu{
+    width: 400px;
+    float: left;
+    height: 70px;
+}
+
+ul{
+    float: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+ul li{
+    list-style: none;
+    margin-left: 62px;
+    margin-top: 27px;
+    font-size: 14px;
+}
+
+ul li a{
+    text-decoration: none;
+    color: #fff;
+    font-family: Arial;
+    font-weight: bold;
+    transition: 0.4s ease-in-out;
+}
+
+ul li a:hover{
+    color: #ff7200;
+}
+.raft{
+    margin-top: 30px;
+}
+.raft h2{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 32px;
+    color: blue;
+}
+.raft p{
+    font-size: 22px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.a{
+    width: 150px;
+    height: 120px;
+    
+    position: absolute;
+    top: 350px;
+    left: 80px;
+    transform: translate(0%,-5%);
+    border-radius: 10px;
+    padding: 50px;
+}
+.b{
+    width: 150px;
+    height: 120px;
+
+    position: absolute;
+    top: 350px;
+    left: 510px;
+    transform: translate(0%,-5%);
+    border-radius: 10px;
+    padding: 50px;
+}
+.c{
+    width: 150px;
+    height: 120px;
+
+    position: absolute;
+    top: 350px;
+    left: 940px;
+    transform: translate(0%,-5%);
+    border-radius: 10px;
+    padding: 50px;
+}
+.rope{
+    margin-top: 330px;
+}
+.rope h2{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 32px;
+    color: blue;
+}
+.rope p{
+    font-size: 22px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.d{
+    width: 150px;
+    height: 120px;
+  
+    position: absolute;
+    top: 820px;
+    left: 80px;
+    transform: translate(0%,-5%);
+    border-radius: 10px;
+    padding: 50px;
+}
+.e{
+    width: 150px;
+    height: 120px;
+    
+    position: absolute;
+    top: 820px;
+    left: 510px;
+    transform: translate(0%,-5%);
+    border-radius: 10px;
+    padding: 50px;
+}
+.f{
+    width: 150px;
+    height: 120px;
+   
+    position: absolute;
+    top: 820px;
+    left: 940px;
+    transform: translate(0%,-5%);
+    border-radius: 10px;
+    padding: 50px;
+}
+.a img{
+    width: 200px;
+    height:140px;
+}
+.b img{
+    width: 160px;
+    height:140px;
+    left:1px;
+}
+.c img{
+    width: 200px;
+    height:140px;
+}
+.d img{
+    width: 200px;
+    height:140px;
+}
+.e img{
+    width: 160px;
+    height:140px;
+    left:1px;
+}
+.f img{
+    width: 200px;
+    height:140px;
+}
